@@ -1,0 +1,470 @@
+[
+  {
+    "id": "amazon",
+    "title": "Amazon — Black Friday",
+    "category": "Retail / Media launch",
+    "headline": "An energetic story for a global shopping moment.",
+    "description": "A media presentation combining Black Friday shopping, category highlights and product imagery. Bold orange compositions contrast with dark product showcases, keeping information and campaign energy in balance.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/amazon/p003.webp",
+    "pages": [
+      "assets/amazon/p001.webp",
+      "assets/amazon/p002.webp",
+      "assets/amazon/p003.webp",
+      "assets/amazon/p004.webp",
+      "assets/amazon/p005.webp",
+      "assets/amazon/p006.webp",
+      "assets/amazon/p007.webp"
+    ],
+    "pdf": "pdf/amazon.pdf",
+    "count": 7,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "chint",
+    "title": "CHINT — Smarter living",
+    "category": "Corporate / Brand presentation",
+    "headline": "A clear view of a connected business.",
+    "description": "A corporate presentation for CHINT Home, spanning brand positioning, business scale, capabilities and connected-home systems. Blue architectural imagery gives way to structured diagrams and data.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/chint/p001.webp",
+    "pages": [
+      "assets/chint/p001.webp",
+      "assets/chint/p002.webp",
+      "assets/chint/p003.webp",
+      "assets/chint/p004.webp",
+      "assets/chint/p005.webp",
+      "assets/chint/p006.webp",
+      "assets/chint/p007.webp"
+    ],
+    "pdf": "pdf/chint.pdf",
+    "count": 7,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "rayneo",
+    "title": "RayNeo — AR product launch",
+    "category": "Product launch / Panoramic event visuals",
+    "headline": "A wider stage for a new way of seeing.",
+    "description": "A panoramic presentation for a consumer AR product launch. The selected slides move from the product reveal to optical engineering, display technology and application scenarios. A dark visual language gives the hardware and technical diagrams space to stand out.",
+    "tags": [
+      "Product storytelling",
+      "Panoramic layouts",
+      "Technical visualization"
+    ],
+    "cover": "assets/rayneo/p001.webp",
+    "pages": [
+      "assets/rayneo/p001.webp",
+      "assets/rayneo/p002.webp",
+      "assets/rayneo/p003.webp",
+      "assets/rayneo/p004.webp",
+      "assets/rayneo/p005.webp",
+      "assets/rayneo/p006.webp",
+      "assets/rayneo/p007.webp",
+      "assets/rayneo/p008.webp",
+      "assets/rayneo/p009.webp",
+      "assets/rayneo/p010.webp",
+      "assets/rayneo/p011.webp"
+    ],
+    "pdf": "pdf/rayneo.pdf",
+    "count": 11,
+    "note": "Original slides are in Chinese. The full-width layouts were designed for a multi-screen event format.",
+    "coverWidth": 2200,
+    "coverHeight": 440
+  },
+  {
+    "id": "wanhua",
+    "title": "Wanhua — Material solutions",
+    "category": "English B2B / Exhibition presentation",
+    "headline": "Make material innovation easy to understand.",
+    "description": "An English-language presentation of recyclable material solutions. A consistent blue-and-white system connects market trends, material properties and automotive applications, helping a technical audience move from the overview to specific uses.",
+    "tags": [
+      "English information design",
+      "Application diagrams",
+      "Exhibition communication"
+    ],
+    "cover": "assets/wanhua/p001.webp",
+    "pages": [
+      "assets/wanhua/p001.webp",
+      "assets/wanhua/p002.webp",
+      "assets/wanhua/p003.webp",
+      "assets/wanhua/p004.webp",
+      "assets/wanhua/p005.webp",
+      "assets/wanhua/p006.webp",
+      "assets/wanhua/p007.webp"
+    ],
+    "pdf": "pdf/wanhua.pdf",
+    "count": 7,
+    "note": "The English copy is part of the original presentation.",
+    "coverWidth": 2200,
+    "coverHeight": 1100
+  },
+  {
+    "id": "hitachi",
+    "title": "Hitachi Elevator — Company overview",
+    "category": "Corporate presentation / Business communication",
+    "headline": "A clear picture of a complex business.",
+    "description": "A company presentation that brings together corporate structure, operating figures, research facilities and landmark building projects. Architectural imagery, restrained typography and a consistent data hierarchy organize the material into a coherent overview.",
+    "tags": [
+      "Corporate information hierarchy",
+      "Data presentation",
+      "Architectural imagery"
+    ],
+    "cover": "assets/hitachi/p002.webp",
+    "pages": [
+      "assets/hitachi/p001.webp",
+      "assets/hitachi/p002.webp",
+      "assets/hitachi/p003.webp",
+      "assets/hitachi/p004.webp",
+      "assets/hitachi/p005.webp",
+      "assets/hitachi/p006.webp",
+      "assets/hitachi/p007.webp"
+    ],
+    "pdf": "pdf/hitachi.pdf",
+    "count": 7,
+    "note": "Original slides are in Chinese. Figures and dates belong to the source presentation and are not claims about my own results.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "swire",
+    "title": "Swire Coca-Cola — A lower-carbon future",
+    "category": "Business report / Sustainability communication",
+    "headline": "Give operational data a visual narrative.",
+    "description": "A sustainability-focused business presentation covering production, energy and logistics. Blue and green graphics connect operational information with the lower-carbon theme, while charts and diagrams make the reporting easier to follow.",
+    "tags": [
+      "Business reporting",
+      "Sustainability narrative",
+      "Chart design"
+    ],
+    "cover": "assets/swire/p001.webp",
+    "pages": [
+      "assets/swire/p001.webp",
+      "assets/swire/p002.webp",
+      "assets/swire/p003.webp",
+      "assets/swire/p004.webp",
+      "assets/swire/p005.webp",
+      "assets/swire/p006.webp",
+      "assets/swire/p007.webp"
+    ],
+    "pdf": "pdf/swire.pdf",
+    "count": 7,
+    "note": "Original slides are in Chinese. The selection shows presentation design and data communication.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "aws",
+    "title": "AWS — Cloud innovation",
+    "category": "Technology / Conference keynote",
+    "headline": "Making cloud architecture easier to follow.",
+    "description": "A technical keynote moving from data-driven innovation to cloud services, architecture and application scenarios. Dark slides and color-coded diagrams organize complex systems into readable layers.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/aws/p002.webp",
+    "pages": [
+      "assets/aws/p001.webp",
+      "assets/aws/p002.webp",
+      "assets/aws/p003.webp",
+      "assets/aws/p004.webp",
+      "assets/aws/p005.webp",
+      "assets/aws/p006.webp",
+      "assets/aws/p007.webp",
+      "assets/aws/p008.webp",
+      "assets/aws/p009.webp",
+      "assets/aws/p010.webp"
+    ],
+    "pdf": "pdf/aws.pdf",
+    "count": 10,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "powerstack",
+    "title": "Sungrow — PowerStack",
+    "category": "Energy / Product launch",
+    "headline": "Engineering, presented at stage scale.",
+    "description": "A wide-format energy-storage product presentation. Product renders, system diagrams and safety information form a clear progression from the cabinet to the technology within.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/powerstack/p002.webp",
+    "pages": [
+      "assets/powerstack/p001.webp",
+      "assets/powerstack/p002.webp",
+      "assets/powerstack/p003.webp",
+      "assets/powerstack/p004.webp",
+      "assets/powerstack/p005.webp"
+    ],
+    "pdf": "pdf/powerstack.pdf",
+    "count": 5,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 586
+  },
+  {
+    "id": "alibaba",
+    "title": "Alibaba.com — Global B2B presentation",
+    "category": "English B2B / Panoramic event presentation",
+    "headline": "Bring a global business story to the stage.",
+    "description": "An English-language presentation covering the B2B ecommerce landscape, global trade trends and merchant solutions. Dark panoramic layouts use curved visual elements to connect chapters, with a clear hierarchy for market data and business diagrams.",
+    "tags": [
+      "English B2B communication",
+      "Large-format layouts",
+      "Business data visualization"
+    ],
+    "cover": "assets/alibaba/p001.webp",
+    "pages": [
+      "assets/alibaba/p001.webp",
+      "assets/alibaba/p002.webp",
+      "assets/alibaba/p003.webp",
+      "assets/alibaba/p004.webp",
+      "assets/alibaba/p005.webp",
+      "assets/alibaba/p006.webp",
+      "assets/alibaba/p007.webp",
+      "assets/alibaba/p008.webp",
+      "assets/alibaba/p009.webp",
+      "assets/alibaba/p010.webp",
+      "assets/alibaba/p011.webp",
+      "assets/alibaba/p012.webp",
+      "assets/alibaba/p013.webp"
+    ],
+    "pdf": "pdf/alibaba.pdf",
+    "count": 13,
+    "note": "Original English slides use an unusually wide event-screen format. Open an image to inspect it at a larger size.",
+    "coverWidth": 2200,
+    "coverHeight": 283
+  },
+  {
+    "id": "intel",
+    "title": "Intel — AI Content Marketing Playbook",
+    "category": "Editorial design / Technology communication",
+    "headline": "A reading system for a complex subject.",
+    "description": "A long-form AI content marketing playbook, organized around technical scenarios, creative content and media coverage. Contents pages, section dividers and repeatable editorial modules help a reader navigate a substantial body of information.",
+    "tags": [
+      "Editorial systems",
+      "Long-form layout",
+      "Technology communication"
+    ],
+    "cover": "assets/intel/p001.webp",
+    "pages": [
+      "assets/intel/p001.webp",
+      "assets/intel/p002.webp",
+      "assets/intel/p003.webp",
+      "assets/intel/p004.webp",
+      "assets/intel/p005.webp",
+      "assets/intel/p006.webp",
+      "assets/intel/p007.webp",
+      "assets/intel/p008.webp",
+      "assets/intel/p009.webp",
+      "assets/intel/p010.webp",
+      "assets/intel/p011.webp",
+      "assets/intel/p012.webp",
+      "assets/intel/p013.webp",
+      "assets/intel/p014.webp",
+      "assets/intel/p015.webp",
+      "assets/intel/p016.webp",
+      "assets/intel/p017.webp",
+      "assets/intel/p018.webp",
+      "assets/intel/p019.webp",
+      "assets/intel/p020.webp",
+      "assets/intel/p021.webp",
+      "assets/intel/p022.webp",
+      "assets/intel/p023.webp",
+      "assets/intel/p024.webp",
+      "assets/intel/p025.webp",
+      "assets/intel/p026.webp",
+      "assets/intel/p027.webp",
+      "assets/intel/p028.webp",
+      "assets/intel/p029.webp",
+      "assets/intel/p030.webp",
+      "assets/intel/p031.webp",
+      "assets/intel/p032.webp",
+      "assets/intel/p033.webp",
+      "assets/intel/p034.webp",
+      "assets/intel/p035.webp",
+      "assets/intel/p036.webp",
+      "assets/intel/p037.webp",
+      "assets/intel/p038.webp",
+      "assets/intel/p039.webp",
+      "assets/intel/p040.webp",
+      "assets/intel/p041.webp",
+      "assets/intel/p042.webp",
+      "assets/intel/p043.webp",
+      "assets/intel/p044.webp",
+      "assets/intel/p045.webp",
+      "assets/intel/p046.webp",
+      "assets/intel/p047.webp",
+      "assets/intel/p048.webp",
+      "assets/intel/p049.webp",
+      "assets/intel/p050.webp",
+      "assets/intel/p051.webp",
+      "assets/intel/p052.webp",
+      "assets/intel/p053.webp",
+      "assets/intel/p054.webp",
+      "assets/intel/p055.webp"
+    ],
+    "pdf": "pdf/intel.pdf",
+    "count": 55,
+    "note": "Original slides combine Chinese content with English headings. This selection focuses on the document structure and visual system.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "huawei",
+    "title": "Huawei — Smart logistics",
+    "category": "B2B / Solution proposal",
+    "headline": "Connecting the moving parts of logistics.",
+    "description": "A solution proposal for intelligent logistics, bringing together industry needs, system capabilities, process diagrams and deployment scenarios. Red accents and consistent information structure guide the narrative.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/huawei/p001.webp",
+    "pages": [
+      "assets/huawei/p001.webp",
+      "assets/huawei/p002.webp",
+      "assets/huawei/p003.webp",
+      "assets/huawei/p004.webp",
+      "assets/huawei/p005.webp",
+      "assets/huawei/p006.webp",
+      "assets/huawei/p007.webp"
+    ],
+    "pdf": "pdf/huawei.pdf",
+    "count": 7,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 1237
+  },
+  {
+    "id": "vienna",
+    "title": "Vienna — A refreshed stay",
+    "category": "Hospitality / Brand launch",
+    "headline": "A warmer way to introduce a refreshed brand.",
+    "description": "A hotel brand launch built around wellbeing, nature and the guest experience. Full-width photography introduces the positioning before moving into lobby and guest-room concepts.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/vienna/p002.webp",
+    "pages": [
+      "assets/vienna/p001.webp",
+      "assets/vienna/p002.webp",
+      "assets/vienna/p003.webp",
+      "assets/vienna/p004.webp",
+      "assets/vienna/p005.webp",
+      "assets/vienna/p006.webp"
+    ],
+    "pdf": "pdf/vienna.pdf",
+    "count": 6,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 1099
+  },
+  {
+    "id": "dell",
+    "title": "Dell — Digital possibilities",
+    "category": "Technology / Panoramic keynote",
+    "headline": "A connected story across a wider canvas.",
+    "description": "A panoramic technology presentation with teal landscapes, sector imagery and multi-part content layouts. The extra-wide format supports a continuous event-stage story.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/dell/p001.webp",
+    "pages": [
+      "assets/dell/p001.webp",
+      "assets/dell/p002.webp",
+      "assets/dell/p003.webp",
+      "assets/dell/p004.webp",
+      "assets/dell/p005.webp",
+      "assets/dell/p006.webp"
+    ],
+    "pdf": "pdf/dell.pdf",
+    "count": 6,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 458
+  },
+  {
+    "id": "shokz",
+    "title": "Shokz — Open-ear performance",
+    "category": "Audio / Product launch",
+    "headline": "Product performance with room to breathe.",
+    "description": "A panoramic sports-headphone presentation combining product imagery, feature statements and acoustic diagrams. A restrained dark palette emphasizes the product and its engineering.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/shokz/p001.webp",
+    "pages": [
+      "assets/shokz/p001.webp",
+      "assets/shokz/p002.webp",
+      "assets/shokz/p003.webp",
+      "assets/shokz/p004.webp",
+      "assets/shokz/p005.webp",
+      "assets/shokz/p006.webp"
+    ],
+    "pdf": "pdf/shokz.pdf",
+    "count": 6,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 440
+  },
+  {
+    "id": "tencent",
+    "title": "Tencent — Technology pavilion",
+    "category": "Exhibition / Immersive storytelling",
+    "headline": "A spatial narrative for emerging technology.",
+    "description": "An exhibition presentation exploring the visual identity and spatial experience of a technology pavilion. Blue architectural scenes, light and large-scale typography connect the presentation to the physical space.",
+    "tags": [
+      "Visual narrative",
+      "Information hierarchy",
+      "Presentation design"
+    ],
+    "cover": "assets/tencent/p003.webp",
+    "pages": [
+      "assets/tencent/p001.webp",
+      "assets/tencent/p002.webp",
+      "assets/tencent/p003.webp",
+      "assets/tencent/p004.webp",
+      "assets/tencent/p005.webp",
+      "assets/tencent/p006.webp",
+      "assets/tencent/p007.webp",
+      "assets/tencent/p008.webp",
+      "assets/tencent/p009.webp",
+      "assets/tencent/p010.webp",
+      "assets/tencent/p011.webp",
+      "assets/tencent/p012.webp",
+      "assets/tencent/p013.webp",
+      "assets/tencent/p015.webp"
+    ],
+    "pdf": "pdf/tencent.pdf",
+    "count": 15,
+    "note": "Original slides retain their supplied language. This case is presented as selected portfolio work; no direct brand employment is implied.",
+    "coverWidth": 2200,
+    "coverHeight": 586
+  }
+]

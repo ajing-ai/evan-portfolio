@@ -1,0 +1,122 @@
+[
+  {
+    "id": "amazon",
+    "name": "Amazon",
+    "logo": "assets/hd-amazon.png",
+    "projectId": "amazon"
+  },
+  {
+    "id": "chint",
+    "name": "CHINT",
+    "logo": "assets/hd-chint.png",
+    "projectId": "chint"
+  },
+  {
+    "id": "rayneo",
+    "name": "RayNeo",
+    "logo": "assets/hd-rayneo.png",
+    "projectId": "rayneo"
+  },
+  {
+    "id": "wanhua",
+    "name": "Wanhua",
+    "logo": "assets/hd-wanhua.png",
+    "projectId": "wanhua"
+  },
+  {
+    "id": "hitachi",
+    "name": "Hitachi",
+    "logo": "assets/clear-hitachi.png",
+    "projectId": "hitachi"
+  },
+  {
+    "id": "swire",
+    "name": "Swire Coca-Cola",
+    "logo": "assets/clear-swire.svg",
+    "projectId": "swire"
+  },
+  {
+    "id": "aws",
+    "name": "AWS",
+    "logo": "assets/clear-aws.png",
+    "projectId": "aws"
+  },
+  {
+    "id": "powerstack",
+    "name": "Sungrow",
+    "logo": "assets/hd-powerstack.svg",
+    "projectId": "powerstack"
+  },
+  {
+    "id": "alibaba",
+    "name": "Alibaba.com",
+    "logo": "assets/hd-alibaba.png",
+    "projectId": "alibaba"
+  },
+  {
+    "id": "intel",
+    "name": "Intel",
+    "logo": "assets/clear-intel.svg",
+    "projectId": "intel"
+  },
+  {
+    "id": "huawei",
+    "name": "Huawei",
+    "logo": "assets/clear-huawei.svg",
+    "projectId": "huawei"
+  },
+  {
+    "id": "vienna",
+    "name": "Vienna 3 Best Hotel",
+    "logo": "assets/hd-vienna.png",
+    "projectId": "vienna"
+  },
+  {
+    "id": "dell",
+    "name": "Dell",
+    "logo": "assets/hd-dell.svg",
+    "projectId": "dell"
+  },
+  {
+    "id": "shokz",
+    "name": "Shokz",
+    "logo": "assets/hd-shokz.png",
+    "projectId": "shokz"
+  },
+  {
+    "id": "tencent",
+    "name": "Tencent",
+    "logo": "assets/hd-tencent.png",
+    "projectId": "tencent"
+  },
+  {
+    "id": "jetour",
+    "name": "Jetour",
+    "logo": "assets/clear-jetour.svg"
+  },
+  {
+    "id": "chery",
+    "name": "Chery",
+    "logo": "assets/hd-chery.png"
+  },
+  {
+    "id": "changan",
+    "name": "Changan",
+    "logo": "assets/hd-changan.png"
+  },
+  {
+    "id": "vw",
+    "name": "Volkswagen",
+    "logo": "assets/hd-vw.svg"
+  },
+  {
+    "id": "geely",
+    "name": "Geely",
+    "logo": "assets/hd-geely.svg"
+  },
+  {
+    "id": "hyundai",
+    "name": "Hyundai",
+    "logo": "assets/hd-hyundai.png"
+  }
+]
