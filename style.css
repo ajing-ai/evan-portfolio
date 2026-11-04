@@ -102,3 +102,4 @@ header{animation:none}.ring-hero{height:100svh;min-height:740px;max-height:1100p
 .remote .line-stage>a{width:min(170px,12vw);margin:0 .04em}
 .remote .line-global{margin-top:.2em}
 @media(max-width:600px){.remote .remote-line{line-height:1.05;letter-spacing:-.015em}.remote .line-stage{gap:.18em}.remote .line-stage>a{width:15vw}}
+@media(max-width:600px){.remote{padding-left:16px;padding-right:16px}.remote .remote-line{font-size:12.4vw}.remote .line-built{font-size:11.7vw}.remote .line-global{font-size:11.3vw;white-space:nowrap}.remote .line-stage>a{width:12vw}.remote .remote-line>span{white-space:nowrap}}
