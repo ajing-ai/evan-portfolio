@@ -94,3 +94,11 @@ header{animation:none}.ring-hero{height:100svh;min-height:740px;max-height:1100p
 
 /* Transparent brand assets on the existing black rails. */
 .brand-cell.brand-hitachi img,.brand-cell.brand-swire img,.brand-cell.brand-aws img,.brand-cell.brand-intel img,.brand-cell.brand-huawei img{background:transparent;padding:0}
+
+/* 2026-11-04 legibility fix: no overlap between big lines, no glued letters, image clear of text */
+.remote .remote-line{line-height:1.02;letter-spacing:-.02em}
+.remote .remote-line+.remote-line{margin-top:.06em}
+.remote .line-stage{gap:.22em;align-items:center}
+.remote .line-stage>a{width:min(170px,12vw);margin:0 .04em}
+.remote .line-global{margin-top:.2em}
+@media(max-width:600px){.remote .remote-line{line-height:1.05;letter-spacing:-.015em}.remote .line-stage{gap:.18em}.remote .line-stage>a{width:15vw}}
