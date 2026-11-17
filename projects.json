@@ -466,5 +466,38 @@
     "note": "The English copy is part of the original presentation.",
     "coverWidth": 2200,
     "coverHeight": 1100
+  },
+  {
+    "id": "luohu-2022",
+    "title": "Luohu — 2022 Investment Promotion Conference",
+    "category": "Government / Panoramic event presentation",
+    "headline": "A city’s next chapter, presented at stage scale.",
+    "description": "The 2022 Industrial Space Investment Promotion Conference for Luohu District, Shenzhen. City panoramas, a blue-and-gold visual palette and chapter-based layouts bring the city vision, industrial spaces and policy services together across an ultra-wide stage.",
+    "tags": [
+      "City storytelling",
+      "Panoramic event visuals",
+      "Motion design"
+    ],
+    "cover": "assets/luohu-2022/cover.webp",
+    "pages": [
+      "assets/luohu-2022/p001.webp",
+      "assets/luohu-2022/p002.webp",
+      "assets/luohu-2022/p003.webp",
+      "assets/luohu-2022/p004.webp",
+      "assets/luohu-2022/p005.webp",
+      "assets/luohu-2022/p006.webp",
+      "assets/luohu-2022/p007.webp",
+      "assets/luohu-2022/p008.webp",
+      "assets/luohu-2022/p009.webp",
+      "assets/luohu-2022/p010.webp",
+      "assets/luohu-2022/p011.webp",
+      "assets/luohu-2022/p012.webp",
+      "assets/luohu-2022/p013.webp"
+    ],
+    "count": 13,
+    "sourceUrl": "https://slidesign.cn/case/181",
+    "note": "Selected images and animations from the published Slidesign case study (2022). Source credit: 夺幕传媒 / Slidesign. Original Chinese content and animation are retained.",
+    "coverWidth": 2200,
+    "coverHeight": 1650
   }
 ]
